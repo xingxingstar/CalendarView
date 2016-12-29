@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Dec 27 11:56:14 CST 2016
+2.base=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\comm_calendar.xml
+2.set=ANDROID_RESOURCE
+4.base=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\first_activity.xml
+5.base=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.set=ANDROID_RESOURCE
+6.base=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\common_calendar_gridview_item.xml
+6.set=ANDROID_RESOURCE
+0.base=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=J\:\\TestDemo\\ViewDemo\\CalendarView\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE
